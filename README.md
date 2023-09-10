@@ -14,7 +14,6 @@ Welcome to my portfolio website! I'm Shreerama Shiva Sai Bharadwaja, a dedicated
 #### Medical Implant Manufacturing
 - Collaborated with PGIMER's medical professionals to create sterile 3D prints for patient-specific implants.
 - Conducted stress and failure analysis to optimize implant shape and weight.
-- Integrated sensors (BCG, SpO2) into a specialized chamber 3D printer for medical-grade implant production.
 
 #### Prosthetic Bionic Arm
 - Designed and 3D printed customized prosthetic bionic arms for patients.
