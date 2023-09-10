@@ -1,7 +1,3 @@
-Certainly, here's a description for your portfolio website project that highlights your role as a mechatronic engineer and the projects you've worked on:
-
----
-
 ## Portfolio Website
 
 ### Overview
